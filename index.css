@@ -398,8 +398,7 @@
 .activity-description,
 .activity-text ul {
   max-height: 70px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  overflow: hidden5  text-overflow ellipsis;
   line-height: 1.4;
 }
 .activity-text ul {
@@ -409,8 +408,8 @@
   margin: 0.5rem 0;
 }
 .view{
-  background: linear-gradient(to right, #F30000, #8d000092);
-  width: 30%;
+  background: linear-gradient(to right, #F30000 5%, #8d0000 30%, transparent 100%);
+  width: 50%;
   height: 20%;
   border-style: none;
 }
