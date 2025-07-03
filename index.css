@@ -393,7 +393,7 @@
 }
 
 .activity-link:hover {
-  background: linear-gradient(to right, #ff4d4d, #d62828);
+  background: linear-gradient(to right, #ff4d4d, #d62828);  
 }
 .activity-description,
 .activity-text ul {
@@ -407,4 +407,16 @@
   color: #ccc;
   padding-left: 1rem;
   margin: 0.5rem 0;
+}
+.view{
+  background: linear-gradient(to right, #F30000, #8d000092);
+  width: 30%;
+  height: 20%;
+  border-style: none;
+}
+
+.view a{
+  color: white;
+  text-decoration: none;
+  
 }
